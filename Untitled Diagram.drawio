@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T03:33:54.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="-sleW-p-ClgU6dI3CJ-4" version="20.3.2" type="github"><diagram id="HWNtZv-NkjErd2Qu8lB5" name="Page-1">ddHBDsIgDADQr+HOIC56nlMvnnbwTEYdJGxdGGbTr3cL4CTTE+W1UFIIL9rpbEWvrijBEEblRPiRMMZyyudlkaeXLD9QL43VMtgKlX5BwFj20BKGpNAhGqf7FGvsOqhdYsJaHNOyO5q0ay8a2EBVC7PVm5ZOed3v6OoX0I2KnTMaMq2IxQEGJSSOX8RLwguL6HzUTgWYZXpxLv7c6U/28zALnftxYA7Wu+dN8kW8fAM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-21T06:31:58.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="8nGK5rFl0fcWVgF95LpR" version="20.3.2" type="github">
+  <diagram id="HWNtZv-NkjErd2Qu8lB5" name="Page-1">
+    <mxGraphModel dx="3436" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TY9aPK3SHwWeGidpRgL0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=30;" edge="1" parent="1" source="TY9aPK3SHwWeGidpRgL0-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-690" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TY9aPK3SHwWeGidpRgL0-10" value="&lt;h1&gt;&lt;b&gt;&lt;span style=&quot;text-indent: -0.2px; font-size: 14pt; color: rgb(17, 17, 17);&quot; lang=&quot;EN-ID&quot;&gt;Prediksi Potensi&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;text-indent: -0.2px; font-size: 14pt; color: rgb(17, 17, 17);&quot; lang=&quot;EN-ID&quot;&gt;Kebakaran Hutan dengan Algoritma Klasifikasi&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -0.2px; font-size: 14pt; color: rgb(17, 17, 17); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot; lang=&quot;EN-ID&quot;&gt;K-Nearest Neighbor&lt;/span&gt;&lt;/b&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="250" width="470" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TY9aPK3SHwWeGidpRgL0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=30;" edge="1" parent="1" source="TY9aPK3SHwWeGidpRgL0-11" target="TY9aPK3SHwWeGidpRgL0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TY9aPK3SHwWeGidpRgL0-11" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;Fahmi Aji Kurnia&amp;nbsp;&lt;br&gt;2005040059&lt;br&gt;Teknik Informatika S1 5B&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="20" width="460" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TY9aPK3SHwWeGidpRgL0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;" edge="1" parent="1" source="TY9aPK3SHwWeGidpRgL0-13" target="TY9aPK3SHwWeGidpRgL0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TY9aPK3SHwWeGidpRgL0-13" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Banyaknya&lt;br&gt;Kebakaran Hutan yang Meluas Di Indonesia,&lt;br&gt;Penyebab kebakaran hutan di indonesia,&lt;br&gt;Dampak dan akibat kebakaran hutan di indonesia,&lt;br&gt;Mencegah Kebakaran hutan,&lt;br&gt;cara memulihkan kebakaran hutan&lt;br&gt;&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="580" width="460" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TY9aPK3SHwWeGidpRgL0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="TY9aPK3SHwWeGidpRgL0-14" target="TY9aPK3SHwWeGidpRgL0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TY9aPK3SHwWeGidpRgL0-14" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Perkenalan&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-890" y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TY9aPK3SHwWeGidpRgL0-15" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Membuat Klasifikasi Tentang &lt;br&gt;Penyebab Masalah Kebakaran Hutan Di Indonesia Agar&lt;br&gt;Dapat Di Lakukan Pencegahan&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="580" width="460" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TY9aPK3SHwWeGidpRgL0-16" value="&lt;b style=&quot;font-size: 31px;&quot;&gt;Problem&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TY9aPK3SHwWeGidpRgL0-23" value="&lt;b style=&quot;font-size: 31px;&quot;&gt;Solusi&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
